@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=ke
+comment1.target=boolean\ dispatchKeyEvent(java.awt.event.KeyEvent)
+comment2.params=
+comment2.target=void\ startSimulation()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ endSimulation()
+comment5.params=
+comment5.target=PresentationSimulation()
+comment6.params=
+comment6.target=void\ initialize()
+comment7.params=g
+comment7.target=void\ paintComponent(java.awt.Graphics)
+comment8.params=
+comment8.target=boolean\ isLeftPressed()
+comment9.params=
+comment9.target=boolean\ isRightPressed()
+numComments=10

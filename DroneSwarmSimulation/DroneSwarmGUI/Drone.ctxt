@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=xPos\ yPos\ zPos\ alive
+comment0.target=void\ update(double,\ double,\ double,\ int)
+comment0.text=\r\n\ \ \ \ public\ Drone(double\ xPos,\ double\ yPos,\ double\ zPos,\ double\ xVel,\ double\ yVel,\ double\ zVel,\ double\ batteryLife,\ int\ alive)\ {\r\n\ \ \ \ \ \ \ \ update(xPos,\ yPos,\ zPos,\ xVel,\ yVel,\ zVel,\ batteryLife,\ alive);\r\n\ \ \ \ }\r\n
+comment1.params=xPos\ yPos\ zPos\ xVel\ yVel\ zVel\ xAccel\ yAccel\ zAccel\ batteryLife\ alive
+comment1.target=void\ update(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ int)
+numComments=2

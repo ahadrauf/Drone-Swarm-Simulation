@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=World()
+comment1.params=field
+comment1.target=World(javax.swing.JFrame)
+comment2.params=
+comment2.target=boolean\ update()
+comment2.text=\r\n\ Where\ all\ the\ information\ gets\ updated\r\n
+comment3.params=
+comment3.target=int\ getTurn()
+comment4.params=
+comment4.target=Drone[]\ getDrones()
+comment5.params=
+comment5.target=int\ getNumDeadDrones()
+comment6.params=
+comment6.target=void\ close()
+numComments=7
