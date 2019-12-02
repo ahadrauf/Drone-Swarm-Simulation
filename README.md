@@ -19,4 +19,4 @@ A demo for the software can be found here: https://youtu.be/I5n_QFn6ilc. It show
 
 ## Licenses and Acknowledgements
 This work is licensed under the MIT License for future sharing and collaborative work.
-This software was developed during a 2017 internship at [https://www.elysianlabs.io/](Elysian Labs, Inc.). It was done in collaboration with the AFSOC 720th OSS/OSK, with funding provided by the National Science Foundation (NSF).
+This software was developed during a 2017 internship at Elysian Labs, Inc. (https://www.elysianlabs.io/). It was done in collaboration with the AFSOC 720th OSS/OSK, with funding provided by the National Science Foundation (NSF).
